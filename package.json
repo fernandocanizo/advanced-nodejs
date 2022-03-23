@@ -1,0 +1,26 @@
+{
+  "name": "advanced-nodejs",
+  "version": "1.0.0",
+  "description": "A learning repo where I test advanced NodeJs stuff",
+  "main": "thread-pool-size.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandocanizo/advanced-nodejs.git"
+  },
+  "keywords": [],
+  "author": "Fernando L. Canizo <fernandocanizo@gmail.com> (https://github.com/fernandocanizo/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fernandocanizo/advanced-nodejs/issues"
+  },
+  "homepage": "https://github.com/fernandocanizo/advanced-nodejs#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
